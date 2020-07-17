@@ -5,7 +5,7 @@ from shutil import copy2
 
 # Change these 3 lines to match your setup
 PATH_TO_SAVE_FILE = '/home/USER/.steam/steam/steamapps/compatdata/374320/pfx/drive_c/users/steamuser/Application Data/DarkSoulsIII/0110000105b534ec/DS30000.sl2'
-PATH_TO_BACKUP_FOLDER = '/run/media/USER/6801aa22-ffad-491f-a93e-f4d44c0ec73c/FolderHoldingSaves'
+PATH_TO_BACKUP_FOLDER = '/path/to/FolderHoldingSaves/'  # Trailing slash required
 SAVE_TIMER = 5  # In Minutes
 
 
